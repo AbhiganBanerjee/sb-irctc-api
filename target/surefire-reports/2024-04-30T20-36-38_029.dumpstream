@@ -1,0 +1,5 @@
+# Created at 2024-04-30T20:36:38.229
+Boot Manifest-JAR contains absolute paths in classpath 'D:\AshokIT_Spring_Workspace\IRCTC_REST_API\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
